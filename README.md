@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Banner_1.png" alt="Banner" width="1400" height="200">
+  <img src="./assets/banner.png" alt="Banner" width="1400" height="200">
 </p>
 <h1 align="center">Hi 👋, I'm Zinn</h1>
 <!--h3 align="center">A passionate Backend and mobile developer</h3-->
