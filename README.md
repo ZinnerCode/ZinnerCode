@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Zinn</h1>
 <h3 align="center">A passionate Backend and mobile developer</h3>
 
-- 🔭 I’m currently working on [Flutter finance & analytics app for entrepreneurs](soon)
+<!---- 🔭 I’m currently working on [Flutter finance & analytics app for entrepreneurs](soon)-->
 
-- 🌱 I’m currently learning **Firebase, SQLite tuning, and design patterns in Dart**
+<!--- 🌱 I’m currently learning **Firebase, SQLite tuning, and design patterns in Dart**-->
 
-- 👯 I’m looking to collaborate on [Cross-platform apps with Flutter + Firebase or API-based dashboards](soon)
+- 👯 I’m looking to collaborate on Cross-platform apps with Flutter + Python + Firebase or API-based dashboards
 
-- 🤝 I’m looking for help with [Flutter + Python automation for AI systems](soon)
+<!-- 🤝 I’m looking for help with [Flutter + Python automation for AI systems](soon)-->
 
-- 👨‍💻 All of my projects are available at [https://github.com/zinnercode](https://github.com/zinnercode)
 
-- 💬 Ask me about **NXOpen, clean architecture, REST APIs, Java, and database design**
+- 💬 Ask me about  **NXOpen, clean architecture, REST APIs, Java, and database design** 
 
-- 📫 How to reach me **info.zinnercode@gmail.com**
+
+- 📫 Let's connect!
+<!-- - LinkedIn: [your-link] -->
+- Portfolio: [ZinnerCode](https://sites.google.com/view/zinnercode)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
