@@ -1,22 +1,52 @@
 <h1 align="center">Hi 👋, I'm Zinn</h1>
-<h3 align="center">A passionate Backend and mobile developer</h3>
+<!--h3 align="center">A passionate Backend and mobile developer</h3-->
+<h3 align="center">A passionate software developer focused on mobile apps, data analysis, and SaaS platforms.</h3>
 
 <!---- 🔭 I’m currently working on [Flutter finance & analytics app for entrepreneurs](soon)-->
 
 <!--- 🌱 I’m currently learning **Firebase, SQLite tuning, and design patterns in Dart**-->
 
-- 👯 I’m looking to collaborate on Cross-platform apps with Flutter + Python + Firebase or API-based dashboards
+<!--- 👯 I’m looking to collaborate on Cross-platform apps with Flutter + Python + Firebase or API-based dashboards -->
 
 <!-- 🤝 I’m looking for help with [Flutter + Python automation for AI systems](soon)-->
 
 
-- 💬 Ask me about  **NXOpen, clean architecture, REST APIs, Java, and database design** 
+## 🚀 Projects
+
+### 📱 Mobile App for Ecommerce & Business
+A comprehensive mobile solution designed to streamline ecommerce operations and business management, including order tracking, inventory control, and customer engagement tools.
+
+---
+
+### 📊 Data Smart Analyze  
+Business Intelligence platform for structured data analysis, smart reporting, and insight generation.
+
+#### 🔁 AI-Powered Automation  
+Leveraging artificial intelligence to drive decision-making, improve operational efficiency, and automate analytical workflows.
+
+---
+
+### 🏭 Industrial SCADA Systems  
+Development and integration of SCADA solutions with real-time data acquisition, process monitoring, and automation (PLC, Modbus, OPC-UA).
+
+---
+
+### 🧩 NXOpen CAD Automation with PLM Integration  
+Custom solutions for Siemens NX, automating CAD workflows and integrating with Teamcenter PLM systems.
+
+---
+### 🔧 Tech Stack:
+Flutter, Dart, Firebase, SQL, Python, NXOpen, JAVA.
+
+<!--- 💬 Ask me about  **NXOpen, clean architecture, REST APIs, Java, and database design** -->
+
 
 
 - 📫 Let's connect!
 <!-- - LinkedIn: [your-link] -->
 - Portfolio: [ZinnerCode](https://sites.google.com/view/zinnercode)
-
+<!-- LinkedIn: [your-link] -->
+- Email: info.zinnercode@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
