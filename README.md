@@ -24,7 +24,7 @@ A comprehensive mobile solution designed to streamline ecommerce operations and 
 ### 📊 Data Smart Analyze  
 Business Intelligence platform for structured data analysis, smart reporting, and insight generation.
 
-#### 🔁 AI-Powered Automation  
+### 🔁 AI-Powered Automation  
 Leveraging artificial intelligence to drive decision-making, improve operational efficiency, and automate analytical workflows.
 
 ---
