@@ -1,3 +1,4 @@
+<img src="./assets/Banner_1.png" alt="Portfolio Banner" width="50%" />
 <h1 align="center">Hi 👋, I'm Zinn</h1>
 <!--h3 align="center">A passionate Backend and mobile developer</h3-->
 <h3 align="center">A passionate software developer focused on mobile apps, data analysis, and SaaS platforms.</h3>
