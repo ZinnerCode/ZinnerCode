@@ -47,7 +47,7 @@ Flutter, Dart, Firebase, SQL, Python, NXOpen, JAVA.
 
 - 📫 Let's connect!
 <!-- - LinkedIn: [your-link] -->
-- Portfolio: [ZinnerCode](https://sites.google.com/view/zinnercode)
+[Visit my portfolio](https://sites.google.com/view/zinnercode) — Featuring Flutter mobile apps, AI projects built with Python, SCADA integration and NXOpen-based CAD automation.
 <!-- LinkedIn: [your-link] -->
 - Email: info.zinnercode@gmail.com
 <h3 align="left">Connect with me:</h3>
